@@ -29,10 +29,10 @@ TP2/
 ## 🧱 Architecture du système
 
 ### Schéma global du projet :  
-![Architecture](./pics%20app/Exemple%20Architechture.png)  
+![Exemple Architecture](./mcp-demo-spring-python/pics%20app/Exemple%20Architechture.png)
 
 ### Vue simplifiée pour la documentation :  
-![Architecture Simplifiée](./pics%20app/arch%20app.png)  
+![Arch app](./mcp-demo-spring-python/pics%20app/arch%20app.png)
 
 ## 🚀 Démarrage rapide
 
@@ -84,8 +84,9 @@ ng serve
 ## 📸 Interface et interactions
 
 ### Exemple de génération dans le frontend :  
-![Frontend Screenshot](./pics%20app/premier%20Interface.png)  
-![Chat Interface](./pics%20app/Interface%20chat.png)  
+![Premier Interface](./mcp-demo-spring-python/pics%20app/premier%20Interface.png)
+
+![Interface chat](./mcp-demo-spring-python/pics%20app/Interface%20chat.png)
 
 ## 🛠️ Technologies utilisées
 
