@@ -30,11 +30,11 @@ TP2/
 
 ### Schéma global du projet :  
 
-<img src="./pics_app/arch_app.png" alt="Arch app" width="700"/>
+<img src="./images/ExempleArchitechture.png" alt="Arch global" width="700"/>
 
 ### Vue simplifiée pour la documentation :  
 
-<img src="./pics_app/arch_app.png" alt="Arch app" width="700"/>
+<img src="./images/ArchApp.png" alt="Arch app" width="700"/>
 
 ## 🚀 Démarrage rapide
 
@@ -87,9 +87,9 @@ ng serve
 
 ### Exemple de génération dans le frontend :  
 
-<img src="./pics_app/premier_Interface.png" alt="Premier Interface" width="700"/>
+<img src="./images/PremierInterface.png" alt="Premier Interface" width="700"/>
 
-<img src="./pics_app/Interface_chat.png" alt="Interface chat" width="700"/>
+<img src="./images/InterfaceChat.png" alt="Interface chat" width="700"/>
 
 ## 🛠️ Technologies utilisées
 
