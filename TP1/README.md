@@ -34,10 +34,12 @@ Il permet d’afficher, de supprimer et de visualiser des produits à travers un
 ### 🔧 Lancer le backend Spring Boot
 
 cd spring-backend
+
 ./mvnw spring-boot:run
 
 
 #### 🔧 🌐 Lancer le frontend Angular
 
 npm install
+
 ng serve
