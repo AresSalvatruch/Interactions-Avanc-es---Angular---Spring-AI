@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "python-mcp-server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\mhdot\\OneDrive\\Bureau\\MASTER TIW\\Interaction avancées angular\\TP2\\mcp-demo-spring-python\\python-mcp-server\\server.py"
+      ]
+    }
+  }
+}
