@@ -32,7 +32,7 @@ TP2/
 
 <img src="./images/ExempleArchitechture.png" alt="Arch global" width="700"/>
 
-### Vue simplifiée pour la documentation :  
+### Architecture et Vue simplifiée :  
 
 <img src="./images/ArchApp.png" alt="Arch app" width="700"/>
 
