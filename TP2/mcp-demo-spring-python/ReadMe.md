@@ -86,10 +86,14 @@ ng serve
 ## 📸 Interface et interactions
 
 ### Exemple de génération dans le frontend :  
-
+#### Intrerface Chat
 <img src="./images/PremierInterface.png" alt="Premier Interface" width="700"/>
 
+#### Exemple de query d'intrerface Chat
 <img src="./images/InterfaceChat.png" alt="Interface chat" width="700"/>
+
+<img src="./images/InterfaceChat2.png" alt="Interface chat" width="700"/>
+
 
 ## 🛠️ Technologies utilisées
 
